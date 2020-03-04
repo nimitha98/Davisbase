@@ -72,10 +72,7 @@ ________________________________________
 8.	On Page split the pointer record in INTERNAL PAGE of BTree uses the followin logic - Everything less than key is in the left child and rest in right.
 9.	Currently only records of size <= 250 bytes are supported. If record of size > 250 bytes is added, behaviour has not been tested.
 10.	Explicitly NULL value cannot be set to a column in INSERT query.
-________________________________________
- Known Bugs
-________________________________________
-1.	In update query, setting the primary key value to an existing one works. Not fixed due to time restrictions.
-Thank you! Hope you enjoy using the database!
+___________________________________________________________________________
+	Thank you! Wish you love utilizing the database!
 
 
