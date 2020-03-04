@@ -1,7 +1,7 @@
 DavisBase
 A Database Engine with terminal access to perform CRUD operations on database.
 ReadMe for DavisBase:
-Author Name: Parag Pravin Dakle
+Author Name: Nimitha Jammula
 ________________________________________
  Build and Run Steps
 ________________________________________
